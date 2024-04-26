@@ -13,7 +13,6 @@ const {
   InteractionManager,
 } = ReactNative;
 
-const ViewPagerAndroid = require("@react-native-community/viewpager");
 const TimerMixin = require("react-timer-mixin");
 
 import PagerView from "react-native-pager-view";
